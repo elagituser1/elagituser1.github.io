@@ -2,6 +2,8 @@
 ## Key Information
 
 1. [Register to do the labs](labreg.md)
+2. [My whiteboard diagrams here]()
+3. [Course materials from Microsoft]()
 
 ## A few links for you
 
