@@ -15,9 +15,6 @@
 5. Make sure you remember the **Login ID** that is assigned to you.
 6. After redeeming the key, click **My Training** and select the relevant course.
 7. Click **View Agreement**.
-   - You will not be able to launch the lab machines until you have viewed and accepted the agreement.
+   - You will not be able to launch the lab machines until you have viewed and accepted the agreement and they have been enabled.
 
-## Accessing Your Labs
 
-- Navigate to the **Activities** section.
-- Locate and launch your assigned labs.
