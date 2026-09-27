@@ -3,7 +3,7 @@
 1. [Objectives, as defined by you](Objectives.md)
 2. [My whiteboard diagrams here](https://cmcourses.blob.core.windows.net/cming28/Diagrams.pdf)
 3. [Course materials (MS-4022) from Microsoft](https://learn.microsoft.com/en-us/training/paths/extend-microsoft-365-copilot-studio/)
-4. [MS-4022 Lab exercises from Microsoft](https://microsoftlearning.github.io/MS-4022-Extend-Microsoft-365-Copilot-in-Copilot-Studio/))
+4. [MS-4022 Lab exercises from Microsoft](https://microsoftlearning.github.io/MS-4022-Extend-Microsoft-365-Copilot-in-Copilot-Studio/)
 
 ## A few links for you (I picked these based on your objectives)
 
@@ -16,6 +16,6 @@
 
 ### Security and governance
 - [Copilot Studio Core Security & Governance Features](CoreSecurityAndGovernance.md)
-- [Key concepts - Copilot Studio security and governance](https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-and-governance)
+- [Key concepts - Copilot Studio security and governance](https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-and-governance#security-and-governance-controls)
 - [Security FAQs for Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-faq)
 - [Ensure compliance with Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-certification)
