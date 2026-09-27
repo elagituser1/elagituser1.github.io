@@ -20,7 +20,7 @@
 - [Security FAQs for Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-faq)
 - [Ensure compliance with Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-certification)
 
-## Writing instructions for declarative agents
+### Writing instructions for declarative agents
 - [Write effective instructions for declarative agents | Microsoft Learn
 ](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/declarative-agent-instructions)
 - [Crafting Effective Instructions for Copilot Studio Agents – CIAOPS
