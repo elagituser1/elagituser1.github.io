@@ -15,7 +15,7 @@
 - [Use case blueprints for measuring agent value](https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/agent-business-value-use-case-blueprints)
 
 ### Security and governance
-
+-[Copilot Studio Core Security & Governance Features](CoreSecurityAndGovernance.md)
 -[Key concepts - Copilot Studio security and governance](https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-and-governance)
 -[Security FAQs for Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/security-faq)
 -[Ensure compliance with Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-certification)
