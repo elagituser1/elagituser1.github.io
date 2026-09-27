@@ -21,7 +21,17 @@
 - [Ensure compliance with Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/admin-certification)
 
 ### Writing instructions for declarative agents
-- [Write effective instructions for declarative agents | Microsoft Learn
+- [Write effective instructions for declarative agents 
 ](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/declarative-agent-instructions)
 - [Crafting Effective Instructions for Copilot Studio Agents – CIAOPS
 ](https://blog.ciaops.com/2025/08/06/crafting-effective-instructions-for-copilot-studio-agents/)
+
+<!--
+### Knowledge checks
+
+- [Check 1](https://learn.microsoft.com/en-us/training/modules/copilot-declarative-agent-intro/5-knowledge-check)
+- [Check 2](https://learn.microsoft.com/en-us/training/modules/build-your-first-agent-microsoft-365-copilot-use-copilot-studio/8-knowledge-check)
+- [Check 3](https://learn.microsoft.com/en-us/training/modules/introduction-copilot-studio-actions/6-knowledge-check) 
+- [Check 4]()
+- [Check 5]()
+-->
