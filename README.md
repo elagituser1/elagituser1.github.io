@@ -26,6 +26,11 @@
 - [Crafting Effective Instructions for Copilot Studio Agents – CIAOPS
 ](https://blog.ciaops.com/2025/08/06/crafting-effective-instructions-for-copilot-studio-agents/)
 
+### Roadmap
+- [Copilot Studio Roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=%5B%22Microsoft+Copilot+Studio%22%5D#Roadmap)
+- [What's new in Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/whats-new)
+- [Copilot Studio release plan](https://learn.microsoft.com/en-us/power-platform/release-plan/2026wave2/microsoft-copilot-studio/)
+
 <!--
 ### Knowledge checks
 
