@@ -44,3 +44,6 @@
 - [Check 4]()
 - [Check 5]()
 -->
+
+### Graph explorer
+[Graph explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
