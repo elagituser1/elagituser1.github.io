@@ -31,6 +31,10 @@
 - [What's new in Copilot Studio](https://learn.microsoft.com/en-us/microsoft-copilot-studio/whats-new)
 
 
+### Example prompts (Mentioned in the course)
+- [Example: Employee feedback](https://adoption.microsoft.com/en-us/sample-solution-gallery/sample/pnp-powerplatform-prompts-summarize-employee-feedback/)
+
+
 <!--
 ### Knowledge checks
 
