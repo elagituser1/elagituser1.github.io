@@ -47,3 +47,6 @@
 
 ### Graph explorer
 - [M365 Graph explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
+
+### Licensing information
+- [My summary, Oct 26](CopilotLicensing.md)
